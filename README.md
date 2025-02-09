@@ -52,7 +52,7 @@ Currently, two official plugins are available:
 ### **7. Review Existing Code and Implement Features**
    - [ x] Implement responsive design (mobile-first).
    - [ x] Choose a color palette for a feminine look (optional).
-   - [ ] Add sections like About Me, Portfolio, Contact, and Resume.
+   - [ x] Add sections like About Me, Portfolio, Contact, and Resume.
    - [ ] Add content for each section, ensuring it meets the requirements.
    - [ ] Style components using custom CSS.
 
